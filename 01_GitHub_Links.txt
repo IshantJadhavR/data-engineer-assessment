@@ -1,6 +1,3 @@
 Public repository:
-REPLACE_WITH_YOUR_PUBLIC_GITHUB_REPOSITORY_URL
+https://github.com/IshantJadhavR/data-engineer-assessment
 
-Optional references:
-- REPLACE_WITH_PUBLIC_SCREENSHOT_FOLDER_URL
-- REPLACE_WITH_PUBLIC_ARCHITECTURE_DIAGRAM_URL
