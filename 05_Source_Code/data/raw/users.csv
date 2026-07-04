@@ -1,0 +1,6 @@
+user_id,full_name,email,country,signup_date
+1,Alice Johnson,alice@example.com,US,2025-05-01
+2,Brian Patel,brian@example.com,IN,2025-05-03
+3,Chen Li,chen@example.com,SG,2025-05-05
+4,Diana Khan,diana@example.com,UK,2025-05-06
+5,Ethan Gomez,ethan@example.com,US,2025-05-07

@@ -1,0 +1,22 @@
+play_id,user_id,song_id,played_at,device,city
+1,1,1,2025-07-01 08:30:00,mobile,Delhi
+2,1,4,2025-07-01 09:05:00,web,Delhi
+3,2,2,2025-07-01 10:15:00,mobile,Mumbai
+4,2,3,2025-07-01 10:45:00,tablet,Mumbai
+5,3,6,2025-07-01 11:20:00,mobile,Singapore
+6,4,2,2025-07-01 12:00:00,web,London
+7,5,10,2025-07-01 12:45:00,mobile,New York
+8,1,2,2025-07-02 08:10:00,web,Delhi
+9,3,1,2025-07-02 08:55:00,mobile,Singapore
+10,4,7,2025-07-02 09:25:00,web,London
+11,2,6,2025-07-02 09:40:00,tablet,Mumbai
+12,5,4,2025-07-02 10:30:00,mobile,New York
+13,3,5,2025-07-02 11:05:00,web,Delhi
+16,4,8,2025-07-02 12:15:00,mobile,London
+19,3,9,2025-07-03 08:20:00,mobile,Singapore
+20,1,6,2025-07-03 08:50:00,web,Delhi
+21,5,1,2025-07-03 09:10:00,mobile,New York
+22,2,10,2025-07-03 09:35:00,web,Mumbai
+23,4,4,2025-07-03 10:00:00,tablet,London
+24,1,2,2025-07-03 10:25:00,mobile,Delhi
+25,3,6,2025-07-03 10:55:00,mobile,Singapore
